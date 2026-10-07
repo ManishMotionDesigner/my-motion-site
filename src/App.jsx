@@ -140,7 +140,7 @@ function App() {
           transition={{ duration: 0.8, delay: 0.2 }}
         >
           <p className="eyebrow">
-            MOTION DESIGNER • DIGITAL EXPERIENCES
+            MOTION GRAPHICS DESIGNER • DIGITAL EXPERIENCES
           </p>
 
           <h1>
@@ -275,8 +275,8 @@ function App() {
     </h2>
 
     <p className="services-intro">
-      From motion graphics to product animation, I create
-      visual experiences designed to make ideas stand out.
+      I create motion graphics, logo animation, product animation
+      and explainer videos that help modern brands communicate clearly.
     </p>
   </div>
 
@@ -380,7 +380,7 @@ function App() {
     >
       I'm Manish,
       <br />
-      a <span>Motion Designer.</span>
+      a <span>Motion Graphics Designer.</span>
     </motion.h2>
 
     <motion.p
