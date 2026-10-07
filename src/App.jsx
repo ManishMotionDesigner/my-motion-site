@@ -150,8 +150,8 @@ function App() {
           </h1>
 
           <p className="description">
-            I create engaging motion graphics, product animations
-            and digital experiences for modern brands.
+            I’m a motion graphics designer creating engaging motion graphics,
+            product animations and digital experiences for modern brands.
           </p>
 
           <div className="hero-buttons">
