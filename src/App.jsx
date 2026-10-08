@@ -87,6 +87,7 @@ function App() {
   className="nav-button"
   whileHover={{ scale: 1.05 }}
   whileTap={{ scale: 0.96 }}
+  onClick={() => window.gtag?.('event', 'contact_click')}
 >
   Let's Talk
 </motion.a>
